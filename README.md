@@ -16,4 +16,4 @@ Reads the filename of all files in the current directory and outputs it to a tex
 
 Meant to work with WriteFileNames after it's ran. This will delete the list and any other batch files (including itself) This is so that if you only need the data in a temporary string based format you can the delete the batch files and the list once you are done with it. 
 
-**WARNING: This will delete all batch files in the current directory (and any file named "List.txt"). Be sure to backup all files for safety**
+**WARNING: This will delete all batch files in the current directory (and any file named "List.txt"). Be sure to backup all files for safety.**
